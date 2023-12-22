@@ -1,0 +1,16 @@
+{
+  "name": "qrcodegenerator",
+  "version": "1.0.0",
+  "description": "generates a QR code using any url",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
